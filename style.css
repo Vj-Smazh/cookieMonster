@@ -1,0 +1,29 @@
+#container{
+    border: 1px solid black;
+    overflow: hidden;
+    height:500px;
+    width:889px  ;
+    position: relative;
+}
+.img{
+    height:500px;
+    width:889px  
+}
+.abs{
+    position: absolute;
+}
+.hide{
+    opacity:0
+}
+#eye{
+    transform: rotateX(90deg);
+    transform-origin: 677px 227px;
+}
+#rHand{
+    transform-origin: 449.5px 187.5px;
+    transform: rotateZ(33deg);
+}
+#lHand{
+    transform-origin: 449.5px 187.5px;
+    transform: rotateZ(322deg);
+}
