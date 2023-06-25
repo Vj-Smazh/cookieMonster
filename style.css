@@ -4,6 +4,7 @@
     height:500px;
     width:889px  ;
     position: relative;
+    cursor: pointer;
 }
 .img{
     height:500px;
